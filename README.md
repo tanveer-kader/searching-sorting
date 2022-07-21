@@ -1,7 +1,9 @@
 # searching-sorting
+## Abstract
 Searching and Sorting Algorithms in different programming languages. Mostly in ***C++*** & ***Python.***  
 It also discusses about their ***working principles, pseudo code, analysis of algorithms.***  
-## Table of Contents  
+## Table of Contents
+- [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Insertion Sort](#insertion-sort)
 ## Introduction
