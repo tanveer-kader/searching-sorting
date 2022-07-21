@@ -7,4 +7,4 @@ Searching and Sorting Algorithms in different languages
 - Compare the element with the elements of sorted sub-array
 - Find out the desired position
 - Move all the later elements from that position to the next index
-- Insert that element in that desired position.
+- Insert that element into that desired position.
