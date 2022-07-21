@@ -1,5 +1,5 @@
 # searching-sorting
-Searching and Sorting Algorithms in different programming languages. Mostly in ***C++ & Python***
+Searching and Sorting Algorithms in different programming languages. Mostly in ***C++ & Python***  
 It also discuss about their ***working principles, pseudo code, analysis of algorithms***  
 ## Insertion Sort
 ### General Working Princple
