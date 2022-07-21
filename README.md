@@ -1,5 +1,6 @@
 # searching-sorting
-Searching and Sorting Algorithms in different languages
+Searching and Sorting Algorithms in different languages.  
+It also discuss about their **working principles**, **pseudo code**, **analysis of algorithms**  
 ## Insertion Sort
 ### General Working Princple
 - Considers the whole array as sorted and unsorted sub-array
