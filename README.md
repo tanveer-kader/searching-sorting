@@ -1,7 +1,7 @@
 # searching-sorting
 Searching and Sorting Algorithms in different languages
-# Insertion Sort
-## General Working Princple
+## Insertion Sort
+### General Working Princple
 - Considers the whole array as sorted and unsorted sub-array
 - Pick up the first element from unsorted sub-array
 - Compare the element with the elements of sorted sub-array
