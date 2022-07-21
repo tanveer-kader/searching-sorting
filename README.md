@@ -13,7 +13,7 @@ Searching is the approach to find out an element from a data structure.
 Sorting is the process of arranging elements of a data structure.
 ### Q: Are these that important to think about?
 Yes! No Doubt!  
-We do a lot of searching and sorting in our daily life. From searching our favourite T-shirt from drawer to searching a product in an online store. Have you ever wondered about having a sweet dish after the dinner why not erlier. Who can forget the struggle arranging the extra papers in exams?
+We do a lot of searching and sorting in our daily life. From searching our favourite T-shirt from drawer to searching a product in an online store. Have you ever wondered about having a sweet dish after the dinner why not erlier? Who can forget the struggle behind arranging those extra papers in exams?
 ## Insertion Sort
 ### General Working Princple
 - Considers the whole array as sorted and unsorted sub-array
