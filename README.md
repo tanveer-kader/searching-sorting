@@ -11,9 +11,12 @@ Searching and Sorting Algorithms in different languages
 ### Pseudo Code
 ```
 INSERTION-SORT(A)
-1. for i = 2 to A.length
-2.     key = A[*i*]
-3.     //Insert A[*i*] into the sorted sequence A[1..i - 1]
-4.     j = i - 1
-
+1.  for i = 1 to A.length
+2.      key = A[i]
+3.      //Insert A[i] into the sorted sequence A[0 .. i - 1]
+4.      j = i - 1
+5.      while j >= 0 and A[j] > key
+6.            A[j + 1] = A[j]
+7.            j = j - 1
+8.      A[j + 1] = key
 ```
