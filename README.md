@@ -1,6 +1,9 @@
 # searching-sorting
 Searching and Sorting Algorithms in different programming languages. Mostly in ***C++*** & ***Python.***  
 It also discusses about their ***working principles, pseudo code, analysis of algorithms.***  
+## Table of Contents  
+- [Introduction](#introduction)
+- [Insertion Sort](#insertion-sort)
 ## Introduction
 ### Q: What is Searching?  
 Searching is the approach to find out an element from a data structure.  
